@@ -1,7 +1,9 @@
-# project
+## project
 
 you can upload your coding package up here
 by using these command below:
+
+(but you have to assign your public key to me first)
 
 # first commit your files
 
